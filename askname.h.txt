@@ -1,2 +1,3 @@
 void askname(char *first);
 void askname(char *last);
+void askname (char *lastname);
